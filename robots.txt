@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://projet-publii-festival/sitemap.xml

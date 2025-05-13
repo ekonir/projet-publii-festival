@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Festival musique",
+    "description": "",
+    "home_page_url": "https://projet-publii-festival",
+    "feed_url": "https://projet-publii-festival/feed.json",
+    "user_comment": "",
+    "icon": "https://projet-publii-festival/media/website/logo-festival.png",
+    "author": {
+        "name": "pisaneschi"
+    },
+    "items": [
+        {
+            "id": "https://projet-publii-festival/galerie.html",
+            "url": "https://projet-publii-festival/galerie.html",
+            "title": "Galerie",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Ajouter des images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://projet-publii-festival/media/posts/16/gallery/festival..jpg\" data-size=\"1600x900\"><img loading=\"lazy\" src=\"https://projet-publii-festival/media/posts/16/gallery/festival.-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://projet-publii-festival/media/posts/16/gallery/festival...jpg\" data-size=\"1024x684\"><img loading=\"lazy\" src=\"https://projet-publii-festival/media/posts/16/gallery/festival..-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"481\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://projet-publii-festival/media/posts/16/gallery/festival.jpg\" data-size=\"2000x1140\"><img loading=\"lazy\" src=\"https://projet-publii-festival/media/posts/16/gallery/festival-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"410\"></a></figure>\n</div></div>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://projet-publii-festival/media/posts/16/festival.....jpg\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://projet-publii-festival/media/posts/16/responsive/festival....-xs.jpg 640w ,https://projet-publii-festival/media/posts/16/responsive/festival....-sm.jpg 768w ,https://projet-publii-festival/media/posts/16/responsive/festival....-md.jpg 1024w ,https://projet-publii-festival/media/posts/16/responsive/festival....-lg.jpg 1366w ,https://projet-publii-festival/media/posts/16/responsive/festival....-xl.jpg 1600w ,https://projet-publii-festival/media/posts/16/responsive/festival....-2xl.jpg 1920w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://projet-publii-festival/media/posts/16/festival...-2.jpg\" alt=\"\" width=\"2000\" height=\"1333\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://projet-publii-festival/media/posts/16/responsive/festival...-2-xs.jpg 640w ,https://projet-publii-festival/media/posts/16/responsive/festival...-2-sm.jpg 768w ,https://projet-publii-festival/media/posts/16/responsive/festival...-2-md.jpg 1024w ,https://projet-publii-festival/media/posts/16/responsive/festival...-2-lg.jpg 1366w ,https://projet-publii-festival/media/posts/16/responsive/festival...-2-xl.jpg 1600w ,https://projet-publii-festival/media/posts/16/responsive/festival...-2-2xl.jpg 1920w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://projet-publii-festival/media/posts/16/festival.png\" alt=\"\" width=\"698\" height=\"517\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://projet-publii-festival/media/posts/16/responsive/festival-xs.png 640w ,https://projet-publii-festival/media/posts/16/responsive/festival-sm.png 768w ,https://projet-publii-festival/media/posts/16/responsive/festival-md.png 1024w ,https://projet-publii-festival/media/posts/16/responsive/festival-lg.png 1366w ,https://projet-publii-festival/media/posts/16/responsive/festival-xl.png 1600w ,https://projet-publii-festival/media/posts/16/responsive/festival-2xl.png 1920w\"></figure>",
+            "author": {
+                "name": "pisaneschi"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-06T13:33:36+01:00",
+            "date_modified": "2025-02-06T13:35:31+01:00"
+        }
+    ]
+}
